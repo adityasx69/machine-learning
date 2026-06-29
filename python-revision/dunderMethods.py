@@ -12,7 +12,7 @@ class Car:
     def __str__(self):
         return f'{self.brand},{self.horsePower}hp'
     
-    def __add__(self, other: self)->str:
+    def __add__(self, other)->str:
         return f'{self.brand} & {other.brand}'
         
 volvo: Car = Car('Volvo',120)
