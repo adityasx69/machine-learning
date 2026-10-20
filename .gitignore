@@ -1,2 +1,26 @@
+# Python virtual environments
+.venv/
+.venv-1/
+.venv_1/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS system files
 .DS_Store
-.vscode
+
+# VS Code settings
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Optional: keep example environment files
+!.env.example
