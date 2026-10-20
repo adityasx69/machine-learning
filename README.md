@@ -1,4 +1,4 @@
-# Machine Learning Foundations
+# Machine Learning
 
 A structured collection of Python, data analysis, and visualization work that builds the groundwork for machine learning. The repository combines two end-to-end exploratory data analysis (EDA) and feature engineering projects, one on medical insurance costs and one on heart disease, with focused practice modules covering Python fundamentals, NumPy, Matplotlib, and Pandas.
 
